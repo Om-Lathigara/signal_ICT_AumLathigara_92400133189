@@ -20,4 +20,4 @@ After building, a .whl file will be present in the dist/ folder.
 To install locally:
 
 ```bash
-https://github.com/Om-Lathigara/signal_ICT_AumLathigara_92400133189
+pip install signal-ICT-AumLathigara-92400133189
