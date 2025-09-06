@@ -1,23 +1,27 @@
 # signal_ICT_AumLathigara_92400133189
 
-This Python package provides basic signal processing operations and generation of common signals (unit step, ramp, trigonometric signals, etc.).  
+# Signal Processing Package
+
+This Python package provides simple tools for creating common signals (such as unit step, ramp, sine, cosine, etc.) and for performing basic signal operations.  
 It was developed as part of the ICT Lab project.
 
 ---
 
-##  Package Modules
-- *unitary_signals.py* → Contains functions for unit step, ramp, impulse signals.
-- *trigonometric_signals.py* → Functions to generate sine and cosine signals.
-- *operations.py* → Functions for operations like time shift, time scaling, amplitude scaling, etc.
-- *_init_.py* → Makes the package importable.
+## Package Files
+- **unitary_signals.py** → Functions for unit step, ramp, and impulse signals  
+- **trigonometric_signals.py** → Functions to generate sine and cosine signals  
+- **operations.py** → Functions for basic operations like time shift, time scaling, and amplitude scaling  
+- **__init__.py** → Makes the folder usable as a package  
 
 ---
 
 ## Installation
 
 ### 1. From Wheel (local)
-After building, a .whl file will be present in the dist/ folder.  
-To install locally:
+After building, a `.whl` file will be created inside the `dist/` folder.  
+To install it locally, run the following command in your terminal:
 
 ```bash
-pip install signal-ICT-AumLathigara-92400133189
+pip install dist/your_package_name.whl
+```
+
