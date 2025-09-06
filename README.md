@@ -20,4 +20,4 @@ After building, a .whl file will be present in the dist/ folder.
 To install locally:
 
 ```bash
-pip install -i https://test.pypi.org/simple/ signal-ICT-DevarshBhatt-92400133073==2.0.0
+https://github.com/Om-Lathigara/signal_ICT_AumLathigara_92400133189
