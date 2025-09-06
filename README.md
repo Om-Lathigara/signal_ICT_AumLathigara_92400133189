@@ -22,6 +22,6 @@ After building, a `.whl` file will be created inside the `dist/` folder.
 To install it locally, run the following command in your terminal:
 
 ```bash
-pip install dist/your_package_name.whl
+pip install signal-ICT-AumLathigara-92400133189
 ```
 
